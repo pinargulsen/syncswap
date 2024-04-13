@@ -1,6 +1,5 @@
 CyTube
 ======
-
 CyTube is a project I started in early 2013 as a hobby project to build my own
 clone of synchtube.com (which shut down in March 2013).
 
